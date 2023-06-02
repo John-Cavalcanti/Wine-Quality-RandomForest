@@ -1,6 +1,6 @@
 # Wine-Quality-RandomForest
 
-This notebook is a visualization about a dataset that evaluates wine quality based on various aspects alcohol, some types of acid, sulphates etc.
+This notebook is a visualization and a machine learning training about a dataset that evaluates wine quality based on various aspects alcohol, some types of acid, sulphates etc.
 
 ## How to execute it
 
